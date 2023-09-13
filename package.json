@@ -1,0 +1,27 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "cypress-example",
+  "main": "index.js",
+  "scripts": {
+    "cyopen": "npx cypress open",
+    "cyrun": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayzatmr/CypressExample.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Javascript"
+  ],
+  "author": "Ayzat Murtazin",
+  "license": "no",
+  "dependencies": {
+    "cypress": "13.2.0",
+    "datejs": "^1.0.0-rc3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0"
+  }
+}
